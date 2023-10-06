@@ -1,5 +1,8 @@
 # INTEGRA Geschaeftspartner mutieren
 
+Link to INTEGRA master repository  
+[INTEGRA](https://github.com/Integra-SUPERB/INTEGRA)
+
 
 ## Goal of this repository
 With the Geschäftspartner mutieren API, existing business partners can be modified. The API behaves identically in many parts to the [Geschäftspartner anlegen](https://github.com/Integra-SUPERB/INTEGRA_Geschaeftspartner-anlegen) API. 
