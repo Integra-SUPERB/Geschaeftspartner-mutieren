@@ -23,9 +23,9 @@ On the <BusinessPartner> tag, the following attributes must be provided:
 
 **Important:** Please note that from the sender's perspective, the OUT interfaces are always used. Middleware maps the information from OUT to IN and makes the data available for further processing.
 
-How the OUT (outbound) replication is handled is described by SAP here: [Replicate request out service](https://api.sap.com/api/CO_MDG_BP_RPLCTRQ/resource).
+How the OUT (outbound) replication is handled is described by SAP here: [Replicate request out service](https://api.sap.com/api/OP_CO_MDG_BP_RPLCTRQ/resource).
 
-For information on IN (inbound) replication, SAP provides further information here: [Replicate request in service](https://api.sap.com/api/OP_BUSINESSPARTNERSUITEBULKREPLIC/resource?ReleaseInfo=2022%20FPS00)
+For information on IN (inbound) replication, SAP provides further information here: [Replicate request in service](https://api.sap.com/api/OP_BUSINESSPARTNERSUITEBULKREPLIC/resource)
 
 
 ## Contact information
